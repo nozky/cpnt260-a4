@@ -15,8 +15,8 @@ Photo by - [Mitchell Hollander](https://unsplash.com/@mitchures?utm_source=unspl
 
 ---
 **Links**
-  - GH repo: []()
-  - GH Pages site: []()
+  - GH repo: [https://github.com/nozky/cpnt260-a4](https://github.com/nozky/cpnt260-a4)
+  - GH Pages site: [https://nozky.github.io/cpnt260-a4/](https://nozky.github.io/cpnt260-a4/)
 
 ---
 **Author**
