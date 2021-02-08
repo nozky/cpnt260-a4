@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+
+:root{
+  --default-font-family: 'Roboto Mono', sans-serif;
+  --default-line-height: 1.7rem;
+
+  --desktop-defautl-font-size: clamp(16px, 2vw, 20px);
+}
